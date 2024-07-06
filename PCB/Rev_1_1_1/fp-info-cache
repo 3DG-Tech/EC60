@@ -1,4 +1,4 @@
-22604730352786163
+22645774040442269
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -61019,6 +61019,13 @@ solder jumper open
 5
 3
 KeebGraphics
+DarkSymbolSilk
+
+
+0
+0
+0
+KeebGraphics
 DoomEternalSilkINV
 
 
@@ -61047,7 +61054,35 @@ DoomSymbol2Silk
 0
 0
 KeebGraphics
+EsdeathSilk
+
+
+0
+0
+0
+KeebGraphics
 FlashFireSilk
+
+
+0
+0
+0
+KeebGraphics
+FlyingSymbolSilk
+
+
+0
+0
+0
+KeebGraphics
+Genos61Silk
+
+
+0
+0
+0
+KeebGraphics
+GhostSymbolSilk
 
 
 0
@@ -61068,7 +61103,49 @@ GhostrunnerSilk2
 0
 0
 KeebGraphics
+GhostrunnerSilk3
+
+
+0
+0
+0
+KeebGraphics
+OblivionWingSilk
+
+
+0
+0
+0
+KeebGraphics
+PsychicSymbolSilk
+
+
+0
+0
+0
+KeebGraphics
 ceruledgeSilk
+
+
+0
+0
+0
+KeebGraphics
+darkFlashSilk
+
+
+0
+0
+0
+KeebGraphics
+dawnWingNecrozmaFlipSilk
+
+
+0
+0
+0
+KeebGraphics
+dawnWingNecrozmaSilk
 
 
 0
@@ -61082,7 +61159,7 @@ ecRunnerSilk
 0
 0
 KeebGraphics
-ioSilk
+necrodoxSilk
 
 
 0
@@ -61090,6 +61167,41 @@ ioSilk
 0
 KeebGraphics
 qmkSilk
+
+
+0
+0
+0
+KeebGraphics
+qmkViaSilk
+
+
+0
+0
+0
+KeebGraphics
+smallNecrodoxSilk
+
+
+0
+0
+0
+KeebGraphics
+smallQmkSilk
+
+
+0
+0
+0
+KeebGraphics
+yveltalFlipSilk
+
+
+0
+0
+0
+KeebGraphics
+yveltalSilk
 
 
 0
@@ -61179,6 +61291,13 @@ ArduinoProMicro-ZigZag
 0
 24
 24
+Keebio-Parts
+BAT-Pins
+Soldered wire connection, for 2 times 0.1 mm² wires, basic insulation, conductor diameter 0.4mm, outer diameter 1mm, size source Multi-Contact FLEXI-E 0.1 (https://ec.staubli.com/AcroFiles/Catalogues/TM_Cab-Main-11014119_(en)_hi.pdf), bend radius 3 times outer diameter, generated with kicad-footprint-generator
+connector wire 0.1sqmm
+0
+2
+2
 Keebio-Parts
 CUI_SJ-43614-SMT
 
@@ -61712,6 +61831,13 @@ MountingHole
 1
 0
 Keebio-Parts
+Mx_Alps_100-dualside
+MXALPS
+MXALPS
+0
+4
+2
+Keebio-Parts
 NovelKeys_Kailh_Big_Series_Switch
 
 
@@ -61725,6 +61851,13 @@ Through hole pin header THT 2x03 1.00mm double row
 0
 6
 6
+Keebio-Parts
+ProMicro
+Pro Micro footprint
+promicro ProMicro
+0
+24
+24
 Keebio-Parts
 QFN-44-1EP_7x7mm_Pitch0.5mm
 UK Package; 44-Lead Plastic QFN (7mm x 7mm); (see Linear Technology QFN_44_05-08-1763.pdf)
@@ -61785,6 +61918,13 @@ Keebio-Parts
 R_0805
 SMT, 2012, 0805
 SMT, 2012, 0805
+0
+2
+2
+Keebio-Parts
+ResetSW_1side
+
+
 0
 2
 2
@@ -61950,6 +62090,13 @@ tactile switch SPST angled PTS645VL39-2 LFS C&K Button
 2
 2
 Keebio-Parts
+Sea-Picro RP2040
+
+
+0
+29
+29
+Keebio-Parts
 SinglePad
 
 
@@ -62104,6 +62251,13 @@ Teensy_2.0
 31
 31
 Keebio-Parts
+Tenting_Puck
+
+
+0
+4
+1
+Keebio-Parts
 Triple-Dual-1u-LED
 
 
@@ -62131,6 +62285,13 @@ Triple-Dual-2u-LED-stab-flip
 0
 21
 4
+Keebio-Parts
+USB Type-C Mid-Mount Receptacle 16P
+
+
+0
+20
+17
 Keebio-Parts
 USB-C-12-Pin-MidMount
 
@@ -62196,6 +62357,13 @@ breakaway-hole-big
 0
 Keebio-Parts
 breakaway-mousebites
+
+
+0
+0
+0
+Keebio-Parts
+slotMX100
 
 
 0
